@@ -6,6 +6,7 @@ with metadata present in datasets.
 import json
 import numpy as np
 from copy import deepcopy
+import importlib.metadata
 
 import robosuite
 import robosuite.utils.transform_utils as T
@@ -69,9 +70,15 @@ class EnvRobosuite(EB.EnvBase):
         self.use_depth_obs = use_depth_obs
 
         # robosuite version check
-        self._is_v1 = (robosuite.__version__.split(".")[0] == "1")
-        if self._is_v1:
-            assert (int(robosuite.__version__.split(".")[1]) >= 2), "only support robosuite v0.3 and v1.2+"
+        #self._is_v1 = (robosuite.__version__.split(".")[0] == "1")
+        #if self._is_v1:
+            #assert (int(robosuite.__version__.split(".")[1]) >= 2), "only support robosuite v0.3 and v1.2+"
+                    
+        try:
+            version = importlib.metadata.version("robosuite")
+            self._is_v1 = version.split(".")[0] == "1"
+        except Exception:
+            self._is_v1 = False  # Handle missing version gracefully
 
         kwargs = deepcopy(kwargs)
 
@@ -103,6 +110,7 @@ class EnvRobosuite(EB.EnvBase):
         self._env_name = env_name
         self._init_kwargs = deepcopy(kwargs)
         self.env = robosuite.make(self._env_name, **kwargs)
+
 
         if self._is_v1:
             # Make sure joint position observations and eef vel observations are active
