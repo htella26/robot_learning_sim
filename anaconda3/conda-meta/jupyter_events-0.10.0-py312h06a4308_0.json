@@ -1,0 +1,82 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "jsonschema >=4.18.0",
+    "python >=3.12,<3.13.0a0",
+    "python-json-logger >=2.0.4",
+    "pyyaml >=5.3",
+    "referencing",
+    "rfc3339-validator",
+    "rfc3986-validator >=0.1.1",
+    "traitlets >=5.3"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jupyter_events-0.10.0-py312h06a4308_0",
+  "files": [
+    "bin/jupyter-events",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/jupyter_events-0.10.0.dist-info/licenses/LICENSE",
+    "lib/python3.12/site-packages/jupyter_events/__init__.py",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/cli.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/logger.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/pytest_plugin.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/schema.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/schema_registry.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/traits.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/validators.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/__pycache__/yaml.cpython-312.pyc",
+    "lib/python3.12/site-packages/jupyter_events/_version.py",
+    "lib/python3.12/site-packages/jupyter_events/cli.py",
+    "lib/python3.12/site-packages/jupyter_events/logger.py",
+    "lib/python3.12/site-packages/jupyter_events/py.typed",
+    "lib/python3.12/site-packages/jupyter_events/pytest_plugin.py",
+    "lib/python3.12/site-packages/jupyter_events/schema.py",
+    "lib/python3.12/site-packages/jupyter_events/schema_registry.py",
+    "lib/python3.12/site-packages/jupyter_events/schemas/event-core-schema.yml",
+    "lib/python3.12/site-packages/jupyter_events/schemas/event-metaschema.yml",
+    "lib/python3.12/site-packages/jupyter_events/schemas/property-metaschema.yml",
+    "lib/python3.12/site-packages/jupyter_events/traits.py",
+    "lib/python3.12/site-packages/jupyter_events/validators.py",
+    "lib/python3.12/site-packages/jupyter_events/yaml.py"
+  ],
+  "fn": "jupyter_events-0.10.0-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jupyter_events-0.10.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "e9def891af369b1d816e08345a42838a",
+  "name": "jupyter_events",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jupyter_events-0.10.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/jupyter-events",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/jupyter_events_1718738097486/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "276d6713e933d8ad8ccec4f03020d630e0a614fcaab811d6e39d891ca73e96e3",
+        "sha256_in_prefix": "2e2e062571bd105164d5e9fec454e3de9a7f1b5dfd5109a0723ba573bb1812f4",
+        "size_in_bytes": 471
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::jupyter_events==0.10.0=py312h06a4308_0[md5=e9def891af369b1d816e08345a42838a]",
+  "sha256": "8a6497e964bf1c3e08124ea179c42cce2f0a941d868820af7f4c446acac1284b",
+  "size": 42648,
+  "subdir": "linux-64",
+  "timestamp": 1718738219000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/jupyter_events-0.10.0-py312h06a4308_0.conda",
+  "version": "0.10.0"
+}

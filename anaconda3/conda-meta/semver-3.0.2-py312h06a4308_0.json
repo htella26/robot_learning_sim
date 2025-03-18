@@ -1,0 +1,67 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/semver-3.0.2-py312h06a4308_0",
+  "files": [
+    "bin/pysemver",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/LICENSE.txt",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/METADATA",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/RECORD",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/WHEEL",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/semver-3.0.2.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/semver/__about__.py",
+    "lib/python3.12/site-packages/semver/__init__.py",
+    "lib/python3.12/site-packages/semver/__main__.py",
+    "lib/python3.12/site-packages/semver/__pycache__/__about__.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/__pycache__/_deprecated.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/__pycache__/_types.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/__pycache__/cli.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/__pycache__/version.cpython-312.pyc",
+    "lib/python3.12/site-packages/semver/_deprecated.py",
+    "lib/python3.12/site-packages/semver/_types.py",
+    "lib/python3.12/site-packages/semver/cli.py",
+    "lib/python3.12/site-packages/semver/py.typed",
+    "lib/python3.12/site-packages/semver/version.py"
+  ],
+  "fn": "semver-3.0.2-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/semver-3.0.2-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "72d732a11f95d45a18c77335bffce9e1",
+  "name": "semver",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/semver-3.0.2-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pysemver",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/semver_1709243621175/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "5fcdac05e9808199b5f4cdc869bd84a3cc70e51a2dd185d2ef8c454b44f3c436",
+        "sha256_in_prefix": "3b0e0f7e76057fd1b0b231b9cd62f4a09808c02821886d2567fab37745f90633",
+        "size_in_bytes": 492
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::semver==3.0.2=py312h06a4308_0[md5=72d732a11f95d45a18c77335bffce9e1]",
+  "sha256": "348fd3541360d5ed12841e15306d8e99e4b710a67e3b0e53d9ac73a04bffe509",
+  "size": 44525,
+  "subdir": "linux-64",
+  "timestamp": 1709243643000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/semver-3.0.2-py312h06a4308_0.conda",
+  "version": "3.0.2"
+}

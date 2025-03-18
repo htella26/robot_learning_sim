@@ -1,0 +1,42 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/nest-asyncio-1.6.0-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/__pycache__/nest_asyncio.cpython-312.pyc",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/nest_asyncio-1.6.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/nest_asyncio.py"
+  ],
+  "fn": "nest-asyncio-1.6.0-py312h06a4308_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/nest-asyncio-1.6.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "54db123c667472579092ce402f242702",
+  "name": "nest-asyncio",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/nest-asyncio-1.6.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::nest-asyncio==1.6.0=py312h06a4308_0[md5=54db123c667472579092ce402f242702]",
+  "sha256": "13d9576fa0453b5b8030cbab0f4404c1c7928bdc46da8aded2abc0121c63e69a",
+  "size": 16682,
+  "subdir": "linux-64",
+  "timestamp": 1708532775000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/nest-asyncio-1.6.0-py312h06a4308_0.conda",
+  "version": "1.6.0"
+}

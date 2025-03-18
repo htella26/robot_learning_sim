@@ -1,0 +1,62 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "zipp >=0.5"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/importlib-metadata-7.0.1-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/importlib_metadata-7.0.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/importlib_metadata/__init__.py",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_adapters.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_collections.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_compat.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_functools.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_itertools.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_meta.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_py39compat.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/_text.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/__pycache__/diagnose.cpython-312.pyc",
+    "lib/python3.12/site-packages/importlib_metadata/_adapters.py",
+    "lib/python3.12/site-packages/importlib_metadata/_collections.py",
+    "lib/python3.12/site-packages/importlib_metadata/_compat.py",
+    "lib/python3.12/site-packages/importlib_metadata/_functools.py",
+    "lib/python3.12/site-packages/importlib_metadata/_itertools.py",
+    "lib/python3.12/site-packages/importlib_metadata/_meta.py",
+    "lib/python3.12/site-packages/importlib_metadata/_py39compat.py",
+    "lib/python3.12/site-packages/importlib_metadata/_text.py",
+    "lib/python3.12/site-packages/importlib_metadata/diagnose.py",
+    "lib/python3.12/site-packages/importlib_metadata/py.typed"
+  ],
+  "fn": "importlib-metadata-7.0.1-py312h06a4308_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/importlib-metadata-7.0.1-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "3882ea712f9fe00625fa0420016dad18",
+  "name": "importlib-metadata",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/importlib-metadata-7.0.1-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::importlib-metadata==7.0.1=py312h06a4308_0[md5=3882ea712f9fe00625fa0420016dad18]",
+  "sha256": "49e5ec8d188b4a72144753c61aa80d4b7a91b0b8bf357306846da4cd0d86f925",
+  "size": 48712,
+  "subdir": "linux-64",
+  "timestamp": 1704813611000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/importlib-metadata-7.0.1-py312h06a4308_0.conda",
+  "version": "7.0.1"
+}

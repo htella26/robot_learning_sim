@@ -1,0 +1,62 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pyparsing-3.1.2-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/LICENSE",
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/METADATA",
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/RECORD",
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/WHEEL",
+    "lib/python3.12/site-packages/pyparsing-3.1.2.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/pyparsing/__init__.py",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/actions.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/common.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/core.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/exceptions.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/helpers.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/results.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/testing.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/unicode.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/__pycache__/util.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/actions.py",
+    "lib/python3.12/site-packages/pyparsing/common.py",
+    "lib/python3.12/site-packages/pyparsing/core.py",
+    "lib/python3.12/site-packages/pyparsing/diagram/__init__.py",
+    "lib/python3.12/site-packages/pyparsing/diagram/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/pyparsing/exceptions.py",
+    "lib/python3.12/site-packages/pyparsing/helpers.py",
+    "lib/python3.12/site-packages/pyparsing/py.typed",
+    "lib/python3.12/site-packages/pyparsing/results.py",
+    "lib/python3.12/site-packages/pyparsing/testing.py",
+    "lib/python3.12/site-packages/pyparsing/unicode.py",
+    "lib/python3.12/site-packages/pyparsing/util.py"
+  ],
+  "fn": "pyparsing-3.1.2-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pyparsing-3.1.2-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "18be1ebb7e660fe091c05caab324100b",
+  "name": "pyparsing",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pyparsing-3.1.2-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::pyparsing==3.1.2=py312h06a4308_0[md5=18be1ebb7e660fe091c05caab324100b]",
+  "sha256": "50cb38bbe2c4ceecb2db47d7cc05160d3d81cda483175e2b5d1995fd63dd39b3",
+  "size": 460596,
+  "subdir": "linux-64",
+  "timestamp": 1725041717000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pyparsing-3.1.2-py312h06a4308_0.conda",
+  "version": "3.1.2"
+}

@@ -1,0 +1,56 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/queuelib-1.6.2-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/LICENSE",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/METADATA",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/RECORD",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/WHEEL",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/queuelib-1.6.2.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/queuelib/__init__.py",
+    "lib/python3.12/site-packages/queuelib/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/__pycache__/pqueue.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/__pycache__/queue.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/__pycache__/rrqueue.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/pqueue.py",
+    "lib/python3.12/site-packages/queuelib/queue.py",
+    "lib/python3.12/site-packages/queuelib/rrqueue.py",
+    "lib/python3.12/site-packages/queuelib/tests/__init__.py",
+    "lib/python3.12/site-packages/queuelib/tests/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/tests/__pycache__/test_queue.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-312.pyc",
+    "lib/python3.12/site-packages/queuelib/tests/test_pqueue.py",
+    "lib/python3.12/site-packages/queuelib/tests/test_queue.py",
+    "lib/python3.12/site-packages/queuelib/tests/test_rrqueue.py"
+  ],
+  "fn": "queuelib-1.6.2-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/queuelib-1.6.2-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "4e61d2d19b8a073c877576bc1ebae5dd",
+  "name": "queuelib",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/queuelib-1.6.2-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::queuelib==1.6.2=py312h06a4308_0[md5=4e61d2d19b8a073c877576bc1ebae5dd]",
+  "sha256": "6d42570025403d90de8425d6eb0de071b5176c0a8d3d70fd2d24102ebdecf4d8",
+  "size": 34124,
+  "subdir": "linux-64",
+  "timestamp": 1698873933000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/queuelib-1.6.2-py312h06a4308_0.conda",
+  "version": "1.6.2"
+}

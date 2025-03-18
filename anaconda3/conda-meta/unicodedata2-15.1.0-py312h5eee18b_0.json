@@ -1,0 +1,42 @@
+{
+  "build": "py312h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/unicodedata2-15.1.0-py312h5eee18b_0",
+  "files": [
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/unicodedata2.cpython-312-x86_64-linux-gnu.so"
+  ],
+  "fn": "unicodedata2-15.1.0-py312h5eee18b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/unicodedata2-15.1.0-py312h5eee18b_0",
+    "type": 1
+  },
+  "md5": "b4759c926ac7543d4c845d7f984250e3",
+  "name": "unicodedata2",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/unicodedata2-15.1.0-py312h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::unicodedata2==15.1.0=py312h5eee18b_0[md5=b4759c926ac7543d4c845d7f984250e3]",
+  "sha256": "3d7b28c0d0f3384773c0cab30733dd27f8d7e38898261ba704c56b010b481eec",
+  "size": 531064,
+  "subdir": "linux-64",
+  "timestamp": 1713213010000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/unicodedata2-15.1.0-py312h5eee18b_0.conda",
+  "version": "15.1.0"
+}

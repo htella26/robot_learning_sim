@@ -1,0 +1,67 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jmespath-1.0.1-py312h06a4308_0",
+  "files": [
+    "bin/jp.py",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/LICENSE.txt",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/jmespath-1.0.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/jmespath/__init__.py",
+    "lib/python3.12/site-packages/jmespath/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/ast.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/compat.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/exceptions.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/functions.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/lexer.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/parser.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/__pycache__/visitor.cpython-312.pyc",
+    "lib/python3.12/site-packages/jmespath/ast.py",
+    "lib/python3.12/site-packages/jmespath/compat.py",
+    "lib/python3.12/site-packages/jmespath/exceptions.py",
+    "lib/python3.12/site-packages/jmespath/functions.py",
+    "lib/python3.12/site-packages/jmespath/lexer.py",
+    "lib/python3.12/site-packages/jmespath/parser.py",
+    "lib/python3.12/site-packages/jmespath/visitor.py"
+  ],
+  "fn": "jmespath-1.0.1-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jmespath-1.0.1-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "d5e70badfd5b436c8620db7dda0bde71",
+  "name": "jmespath",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jmespath-1.0.1-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/jp.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/jmespath_1701734034266/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "b16f221283048aedddd13e92c25ac9a37f85f40bf841b0b5bb6f979141454785",
+        "sha256_in_prefix": "b92b442bf38b2268337d2ec0296c2f1892eda453e36b83ad672115717c99ddf1",
+        "size_in_bytes": 1945
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::jmespath==1.0.1=py312h06a4308_0[md5=d5e70badfd5b436c8620db7dda0bde71]",
+  "sha256": "53fbc7fda48835e217224144938388887a62503e236d17ed11ead5d95f162af8",
+  "size": 48315,
+  "subdir": "linux-64",
+  "timestamp": 1701734072000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/jmespath-1.0.1-py312h06a4308_0.conda",
+  "version": "1.0.1"
+}

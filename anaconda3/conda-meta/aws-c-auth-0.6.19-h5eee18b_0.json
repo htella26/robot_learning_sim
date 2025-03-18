@@ -1,0 +1,60 @@
+{
+  "build": "h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-cal >=0.5.20,<0.5.21.0a0",
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-http >=0.6.25,<0.6.26.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "aws-c-sdkutils >=0.1.6,<0.1.7.0a0",
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-auth-0.6.19-h5eee18b_0",
+  "files": [
+    "include/aws/auth/auth.h",
+    "include/aws/auth/aws_imds_client.h",
+    "include/aws/auth/credentials.h",
+    "include/aws/auth/exports.h",
+    "include/aws/auth/signable.h",
+    "include/aws/auth/signing.h",
+    "include/aws/auth/signing_config.h",
+    "include/aws/auth/signing_result.h",
+    "lib/aws-c-auth/cmake/aws-c-auth-config.cmake",
+    "lib/aws-c-auth/cmake/shared/aws-c-auth-targets-release.cmake",
+    "lib/aws-c-auth/cmake/shared/aws-c-auth-targets.cmake",
+    "lib/libaws-c-auth.so",
+    "lib/libaws-c-auth.so.1.0.0"
+  ],
+  "fn": "aws-c-auth-0.6.19-h5eee18b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-auth-0.6.19-h5eee18b_0",
+    "type": 1
+  },
+  "md5": "e558e799fcfdfa2c44325bcde949932d",
+  "name": "aws-c-auth",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-auth-0.6.19-h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libaws-c-auth.so.1.0.0",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/aws-c-auth_1706746095801/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "20e7f36959c36198a755f570393181ec6b93855eda1f508fc47833edec00a561",
+        "sha256_in_prefix": "a3b7d97e8a7d720168e48a1cbbc6b66900e24edb37f77179d29f0b1ac2fc4254",
+        "size_in_bytes": 237600
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::aws-c-auth==0.6.19=h5eee18b_0[md5=e558e799fcfdfa2c44325bcde949932d]",
+  "sha256": "7ffc30500607945c5d00bef429b024d2c57397d41bc63df025c181df05293bea",
+  "size": 101718,
+  "subdir": "linux-64",
+  "timestamp": 1706746168000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/aws-c-auth-0.6.19-h5eee18b_0.conda",
+  "version": "0.6.19"
+}

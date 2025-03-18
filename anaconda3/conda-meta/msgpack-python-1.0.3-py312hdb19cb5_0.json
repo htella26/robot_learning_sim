@@ -1,0 +1,52 @@
+{
+  "build": "py312hdb19cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/msgpack-python-1.0.3-py312hdb19cb5_0",
+  "files": [
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/COPYING",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/METADATA",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/RECORD",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/WHEEL",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/msgpack-1.0.3.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/msgpack/__init__.py",
+    "lib/python3.12/site-packages/msgpack/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/msgpack/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/msgpack/__pycache__/exceptions.cpython-312.pyc",
+    "lib/python3.12/site-packages/msgpack/__pycache__/ext.cpython-312.pyc",
+    "lib/python3.12/site-packages/msgpack/__pycache__/fallback.cpython-312.pyc",
+    "lib/python3.12/site-packages/msgpack/_version.py",
+    "lib/python3.12/site-packages/msgpack/exceptions.py",
+    "lib/python3.12/site-packages/msgpack/ext.py",
+    "lib/python3.12/site-packages/msgpack/fallback.py"
+  ],
+  "fn": "msgpack-python-1.0.3-py312hdb19cb5_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/msgpack-python-1.0.3-py312hdb19cb5_0",
+    "type": 1
+  },
+  "md5": "9f2369ceffa6420742a233390d2fc295",
+  "name": "msgpack-python",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/msgpack-python-1.0.3-py312hdb19cb5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::msgpack-python==1.0.3=py312hdb19cb5_0[md5=9f2369ceffa6420742a233390d2fc295]",
+  "sha256": "a15d5a8fffa3b4165320089bfefb9f03c9741b8ac0a7c5910a339606124ceff0",
+  "size": 36057,
+  "subdir": "linux-64",
+  "timestamp": 1698846144000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/msgpack-python-1.0.3-py312hdb19cb5_0.conda",
+  "version": "1.0.3"
+}

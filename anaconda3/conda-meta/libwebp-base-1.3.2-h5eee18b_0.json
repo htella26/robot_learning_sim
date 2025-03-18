@@ -1,0 +1,113 @@
+{
+  "build": "h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "libwebp 1.3.2"
+  ],
+  "depends": [
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libwebp-base-1.3.2-h5eee18b_0",
+  "files": [
+    "include/webp/decode.h",
+    "include/webp/demux.h",
+    "include/webp/encode.h",
+    "include/webp/mux.h",
+    "include/webp/mux_types.h",
+    "include/webp/sharpyuv/sharpyuv.h",
+    "include/webp/sharpyuv/sharpyuv_csp.h",
+    "include/webp/types.h",
+    "lib/libsharpyuv.so",
+    "lib/libsharpyuv.so.0",
+    "lib/libsharpyuv.so.0.0.1",
+    "lib/libwebp.so",
+    "lib/libwebp.so.7",
+    "lib/libwebp.so.7.1.8",
+    "lib/libwebpdecoder.so",
+    "lib/libwebpdecoder.so.3",
+    "lib/libwebpdecoder.so.3.1.8",
+    "lib/libwebpdemux.so",
+    "lib/libwebpdemux.so.2",
+    "lib/libwebpdemux.so.2.0.14",
+    "lib/libwebpmux.so",
+    "lib/libwebpmux.so.3",
+    "lib/libwebpmux.so.3.0.13",
+    "lib/pkgconfig/libsharpyuv.pc",
+    "lib/pkgconfig/libwebp.pc",
+    "lib/pkgconfig/libwebpdecoder.pc",
+    "lib/pkgconfig/libwebpdemux.pc",
+    "lib/pkgconfig/libwebpmux.pc",
+    "share/man/man1/cwebp.1",
+    "share/man/man1/dwebp.1",
+    "share/man/man1/img2webp.1",
+    "share/man/man1/webpinfo.1",
+    "share/man/man1/webpmux.1"
+  ],
+  "fn": "libwebp-base-1.3.2-h5eee18b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libwebp-base-1.3.2-h5eee18b_0",
+    "type": 1
+  },
+  "md5": "9179fc7baefa1e027f572edbc519d805",
+  "name": "libwebp-base",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libwebp-base-1.3.2-h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/pkgconfig/libsharpyuv.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libwebp-base_1694776901891/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "5e5e8d178f19dffdd7c840e16bfca8205867900e44a55e4f1d63fd3275d4e508",
+        "sha256_in_prefix": "e39cffbde7f57f5b83cd338d262548d9c553749c12d803873b69dc7cd73900d7",
+        "size_in_bytes": 513
+      },
+      {
+        "_path": "lib/pkgconfig/libwebp.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libwebp-base_1694776901891/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "eb797c948c35ef023299f2f742967cbe744267247eb1ce5cf1a6ffe1978938c6",
+        "sha256_in_prefix": "0a86ad1c45414bf1720559c320f5012e69242dbbf5319e8c9e81c26f4f7597e5",
+        "size_in_bytes": 527
+      },
+      {
+        "_path": "lib/pkgconfig/libwebpdecoder.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libwebp-base_1694776901891/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "c51739d9fe1216394a9b58d9847b17e6e7cec5db9a488c57e0ce5b90b1b2ca83",
+        "sha256_in_prefix": "37dd0cf1534b5ba821c287fef7c3bb2d6a1f61dcd6a3b6ecbb8974a35578a69a",
+        "size_in_bytes": 525
+      },
+      {
+        "_path": "lib/pkgconfig/libwebpdemux.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libwebp-base_1694776901891/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "5876ce10d17a1b815ec75b36375d1286356c048548a573ab738a34fde19a101a",
+        "sha256_in_prefix": "3db9f60dd38eef7325026c3989544b65208a795e9e0ec179feadb2ab8bfd3fc9",
+        "size_in_bytes": 532
+      },
+      {
+        "_path": "lib/pkgconfig/libwebpmux.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libwebp-base_1694776901891/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "5be460b3590ed3b19216a8e9b8c7b099e97c00f2a63e437414c6723de19b4d05",
+        "sha256_in_prefix": "3013c97b7e9808e6019ecad7acad6413fa0db1b4c5dae928ba582f3604668572",
+        "size_in_bytes": 551
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::libwebp-base==1.3.2=h5eee18b_0[md5=9179fc7baefa1e027f572edbc519d805]",
+  "sha256": "3a79101d96374cce0cdb4a6e6e699379930b6b3bcb4e5e2a23a47949a8958718",
+  "size": 396368,
+  "subdir": "linux-64",
+  "timestamp": 1694776944000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libwebp-base-1.3.2-h5eee18b_0.conda",
+  "version": "1.3.2"
+}

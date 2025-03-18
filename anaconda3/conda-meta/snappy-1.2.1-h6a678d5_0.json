@@ -1,0 +1,45 @@
+{
+  "build": "h6a678d5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/snappy-1.2.1-h6a678d5_0",
+  "files": [
+    "include/snappy-c.h",
+    "include/snappy-sinksource.h",
+    "include/snappy-stubs-public.h",
+    "include/snappy.h",
+    "lib/cmake/Snappy/SnappyConfig.cmake",
+    "lib/cmake/Snappy/SnappyConfigVersion.cmake",
+    "lib/cmake/Snappy/SnappyTargets-noconfig.cmake",
+    "lib/cmake/Snappy/SnappyTargets.cmake",
+    "lib/libsnappy.a",
+    "lib/libsnappy.so",
+    "lib/libsnappy.so.1",
+    "lib/libsnappy.so.1.2.1"
+  ],
+  "fn": "snappy-1.2.1-h6a678d5_0.conda",
+  "license": "BSD-3-clause AND CC-BY-3.0 AND MIT AND CC-BY AND Public Domain",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/snappy-1.2.1-h6a678d5_0",
+    "type": 1
+  },
+  "md5": "e8c664fa38ba48b095d8c7bb1d755c10",
+  "name": "snappy",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/snappy-1.2.1-h6a678d5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::snappy==1.2.1=h6a678d5_0[md5=e8c664fa38ba48b095d8c7bb1d755c10]",
+  "sha256": "1ad780698213f6c21f739176e762de1ca78da60a834ff548461cdc1d923ae2eb",
+  "size": 47149,
+  "subdir": "linux-64",
+  "timestamp": 1723557449000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/snappy-1.2.1-h6a678d5_0.conda",
+  "version": "1.2.1"
+}

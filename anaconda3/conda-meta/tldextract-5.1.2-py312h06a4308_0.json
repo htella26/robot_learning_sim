@@ -1,0 +1,74 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "filelock >=3.0.8",
+    "idna",
+    "python >=3.12,<3.13.0a0",
+    "requests >=2.1.0",
+    "requests-file >=1.4"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tldextract-5.1.2-py312h06a4308_0",
+  "files": [
+    "bin/tldextract",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/LICENSE",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/METADATA",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/RECORD",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/WHEEL",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/tldextract-5.1.2.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/tldextract/.tld_set_snapshot",
+    "lib/python3.12/site-packages/tldextract/__init__.py",
+    "lib/python3.12/site-packages/tldextract/__main__.py",
+    "lib/python3.12/site-packages/tldextract/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/cache.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/cli.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/remote.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/suffix_list.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/__pycache__/tldextract.cpython-312.pyc",
+    "lib/python3.12/site-packages/tldextract/_version.py",
+    "lib/python3.12/site-packages/tldextract/cache.py",
+    "lib/python3.12/site-packages/tldextract/cli.py",
+    "lib/python3.12/site-packages/tldextract/py.typed",
+    "lib/python3.12/site-packages/tldextract/remote.py",
+    "lib/python3.12/site-packages/tldextract/suffix_list.py",
+    "lib/python3.12/site-packages/tldextract/tldextract.py"
+  ],
+  "fn": "tldextract-5.1.2-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tldextract-5.1.2-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "57d7cdb878186d67a2ab5e0db324964c",
+  "name": "tldextract",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tldextract-5.1.2-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/tldextract",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/tldextract_1723064386918/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "9194d6a3915d25a9d2f6791587fa99e466635e142175b35c4e38c6cbf43c1984",
+        "sha256_in_prefix": "8137ca698df6ee4006fc7b406ec6e20856898dec3ceaff76b2406ebc2dfd7172",
+        "size_in_bytes": 467
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::tldextract==5.1.2=py312h06a4308_0[md5=57d7cdb878186d67a2ab5e0db324964c]",
+  "sha256": "17a8b6d4fbf9c13716e500d54bb87cec69f45d14b53881ad847cc91c63a9b225",
+  "size": 125748,
+  "subdir": "linux-64",
+  "timestamp": 1723064411000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tldextract-5.1.2-py312h06a4308_0.conda",
+  "version": "5.1.2"
+}

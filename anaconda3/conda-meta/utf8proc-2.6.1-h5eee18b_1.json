@@ -1,0 +1,36 @@
+{
+  "build": "h5eee18b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/utf8proc-2.6.1-h5eee18b_1",
+  "files": [
+    "include/utf8proc.h",
+    "lib/libutf8proc.so",
+    "lib/libutf8proc.so.2",
+    "lib/libutf8proc.so.2.4.1"
+  ],
+  "fn": "utf8proc-2.6.1-h5eee18b_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/utf8proc-2.6.1-h5eee18b_1",
+    "type": 1
+  },
+  "md5": "70584a9ac726e2f362e229edb7375da4",
+  "name": "utf8proc",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/utf8proc-2.6.1-h5eee18b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::utf8proc==2.6.1=h5eee18b_1[md5=70584a9ac726e2f362e229edb7375da4]",
+  "sha256": "94bf0b9b81047535098d574d5f1d9a7861247cb8feb77faa5828d82c69bb3be0",
+  "size": 94982,
+  "subdir": "linux-64",
+  "timestamp": 1706894675000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/utf8proc-2.6.1-h5eee18b_1.conda",
+  "version": "2.6.1"
+}

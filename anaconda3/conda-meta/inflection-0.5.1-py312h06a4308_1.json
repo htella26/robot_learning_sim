@@ -1,0 +1,43 @@
+{
+  "build": "py312h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/inflection-0.5.1-py312h06a4308_1",
+  "files": [
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/inflection-0.5.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/inflection/__init__.py",
+    "lib/python3.12/site-packages/inflection/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/inflection/py.typed"
+  ],
+  "fn": "inflection-0.5.1-py312h06a4308_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/inflection-0.5.1-py312h06a4308_1",
+    "type": 1
+  },
+  "md5": "67e114605923bbecac3d53ee797a384e",
+  "name": "inflection",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/inflection-0.5.1-py312h06a4308_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::inflection==0.5.1=py312h06a4308_1[md5=67e114605923bbecac3d53ee797a384e]",
+  "sha256": "eab519304d9a85723df349cb8657f2b7d49cdfd32c5b675816b2f10d94940579",
+  "size": 14698,
+  "subdir": "linux-64",
+  "timestamp": 1698869102000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/inflection-0.5.1-py312h06a4308_1.conda",
+  "version": "0.5.1"
+}

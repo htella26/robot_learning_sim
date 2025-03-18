@@ -1,0 +1,53 @@
+{
+  "build": "py312h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/lz4-4.3.2-py312h5eee18b_0",
+  "files": [
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/LICENSE",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/METADATA",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/RECORD",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/WHEEL",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/lz4-4.3.2.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/lz4/__init__.py",
+    "lib/python3.12/site-packages/lz4/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/lz4/__pycache__/version.cpython-312.pyc",
+    "lib/python3.12/site-packages/lz4/_version.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/lz4/block/__init__.py",
+    "lib/python3.12/site-packages/lz4/block/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/lz4/block/_block.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/lz4/frame/__init__.py",
+    "lib/python3.12/site-packages/lz4/frame/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/lz4/frame/_frame.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/lz4/version.py"
+  ],
+  "fn": "lz4-4.3.2-py312h5eee18b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/lz4-4.3.2-py312h5eee18b_0",
+    "type": 1
+  },
+  "md5": "e6b445720047b4edad5c819a1052eefd",
+  "name": "lz4",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/lz4-4.3.2-py312h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::lz4==4.3.2=py312h5eee18b_0[md5=e6b445720047b4edad5c819a1052eefd]",
+  "sha256": "f3dbc593ca6af2ec262dd7bdf4948140e005f26dcb25bd30f63d8b5c7787f925",
+  "size": 38029,
+  "subdir": "linux-64",
+  "timestamp": 1698895199000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/lz4-4.3.2-py312h5eee18b_0.conda",
+  "version": "4.3.2"
+}

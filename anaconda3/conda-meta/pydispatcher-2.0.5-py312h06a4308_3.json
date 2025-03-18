@@ -1,0 +1,51 @@
+{
+  "build": "py312h06a4308_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pydispatcher-2.0.5-py312h06a4308_3",
+  "files": [
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/METADATA",
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/RECORD",
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/WHEEL",
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/PyDispatcher-2.0.5.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/pydispatch/__init__.py",
+    "lib/python3.12/site-packages/pydispatch/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydispatch/__pycache__/dispatcher.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydispatch/__pycache__/errors.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydispatch/__pycache__/robust.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydispatch/__pycache__/robustapply.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydispatch/__pycache__/saferef.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydispatch/dispatcher.py",
+    "lib/python3.12/site-packages/pydispatch/errors.py",
+    "lib/python3.12/site-packages/pydispatch/robust.py",
+    "lib/python3.12/site-packages/pydispatch/robustapply.py",
+    "lib/python3.12/site-packages/pydispatch/saferef.py"
+  ],
+  "fn": "pydispatcher-2.0.5-py312h06a4308_3.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pydispatcher-2.0.5-py312h06a4308_3",
+    "type": 1
+  },
+  "md5": "ad20bdfd6d5783252a2026d2ed2b9756",
+  "name": "pydispatcher",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pydispatcher-2.0.5-py312h06a4308_3.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::pydispatcher==2.0.5=py312h06a4308_3[md5=ad20bdfd6d5783252a2026d2ed2b9756]",
+  "sha256": "f0f4d4b9b9879e319a7d482ffb56994609337d295e557708cf1b23b1f8a02f52",
+  "size": 24641,
+  "subdir": "linux-64",
+  "timestamp": 1698871530000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pydispatcher-2.0.5-py312h06a4308_3.conda",
+  "version": "2.0.5"
+}

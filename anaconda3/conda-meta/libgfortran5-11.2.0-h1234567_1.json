@@ -1,0 +1,37 @@
+{
+  "build": "h1234567_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "libgfortran-ng 11.2.0 *_1"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libgfortran5-11.2.0-h1234567_1",
+  "files": [
+    "lib/libgfortran.so",
+    "lib/libgfortran.so.5",
+    "lib/libgfortran.so.5.0.0",
+    "lib/libgfortran.so.5.0.0T",
+    "share/licenses/libgfortran/RUNTIME.LIBRARY.EXCEPTION"
+  ],
+  "fn": "libgfortran5-11.2.0-h1234567_1.conda",
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libgfortran5-11.2.0-h1234567_1",
+    "type": 1
+  },
+  "md5": "36a01a8c30e0cadf0d3e842c50b73f3b",
+  "name": "libgfortran5",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libgfortran5-11.2.0-h1234567_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::libgfortran5==11.2.0=h1234567_1[md5=36a01a8c30e0cadf0d3e842c50b73f3b]",
+  "sha256": "83df17eb4be4232b6616f4a713624fab63cd8c41ea9957941b85e302b8954268",
+  "size": 2134559,
+  "subdir": "linux-64",
+  "timestamp": 1654090762000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libgfortran5-11.2.0-h1234567_1.conda",
+  "version": "11.2.0"
+}

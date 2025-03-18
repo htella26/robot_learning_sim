@@ -1,0 +1,45 @@
+{
+  "build": "py312hb02cf49_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rpds-py-0.10.6-py312hb02cf49_0",
+  "files": [
+    "lib/python3.12/site-packages/rpds/__init__.py",
+    "lib/python3.12/site-packages/rpds/__init__.pyi",
+    "lib/python3.12/site-packages/rpds/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/rpds/py.typed",
+    "lib/python3.12/site-packages/rpds/rpds.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/METADATA",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/RECORD",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/WHEEL",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/rpds_py-0.10.6.dist-info/license_files/LICENSE"
+  ],
+  "fn": "rpds-py-0.10.6-py312hb02cf49_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rpds-py-0.10.6-py312hb02cf49_0",
+    "type": 1
+  },
+  "md5": "f014511c9cf2b20297e4cba31fa9a47d",
+  "name": "rpds-py",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rpds-py-0.10.6-py312hb02cf49_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::rpds-py==0.10.6=py312hb02cf49_0[md5=f014511c9cf2b20297e4cba31fa9a47d]",
+  "sha256": "b42c8381db9fade296bc843af6c0eeab193a7a04243accd11fb187a481323914",
+  "size": 943377,
+  "subdir": "linux-64",
+  "timestamp": 1698982815000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/rpds-py-0.10.6-py312hb02cf49_0.conda",
+  "version": "0.10.6"
+}

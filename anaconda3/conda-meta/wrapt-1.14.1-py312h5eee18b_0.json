@@ -1,0 +1,52 @@
+{
+  "build": "py312h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/wrapt-1.14.1-py312h5eee18b_0",
+  "files": [
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/wrapt-1.14.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/wrapt/__init__.py",
+    "lib/python3.12/site-packages/wrapt/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/wrapt/__pycache__/arguments.cpython-312.pyc",
+    "lib/python3.12/site-packages/wrapt/__pycache__/decorators.cpython-312.pyc",
+    "lib/python3.12/site-packages/wrapt/__pycache__/importer.cpython-312.pyc",
+    "lib/python3.12/site-packages/wrapt/__pycache__/wrappers.cpython-312.pyc",
+    "lib/python3.12/site-packages/wrapt/_wrappers.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/wrapt/arguments.py",
+    "lib/python3.12/site-packages/wrapt/decorators.py",
+    "lib/python3.12/site-packages/wrapt/importer.py",
+    "lib/python3.12/site-packages/wrapt/wrappers.py"
+  ],
+  "fn": "wrapt-1.14.1-py312h5eee18b_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/wrapt-1.14.1-py312h5eee18b_0",
+    "type": 1
+  },
+  "md5": "1bf44b72940e1476bc3d239e0a2d1df1",
+  "name": "wrapt",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/wrapt-1.14.1-py312h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::wrapt==1.14.1=py312h5eee18b_0[md5=1bf44b72940e1476bc3d239e0a2d1df1]",
+  "sha256": "340da066078ae4986a6f7d5d2b7e56d1695a0c50783234dd56cd8b4dee49cf52",
+  "size": 58331,
+  "subdir": "linux-64",
+  "timestamp": 1698851060000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/wrapt-1.14.1-py312h5eee18b_0.conda",
+  "version": "1.14.1"
+}

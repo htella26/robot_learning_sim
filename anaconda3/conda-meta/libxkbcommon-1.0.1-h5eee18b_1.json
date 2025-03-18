@@ -1,0 +1,120 @@
+{
+  "build": "h5eee18b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "libxcb >=1.15,<2.0a0",
+    "libxml2 >=2.10.3,<2.11.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libxkbcommon-1.0.1-h5eee18b_1",
+  "files": [
+    "bin/xkbcli",
+    "include/xkbcommon/xkbcommon-compat.h",
+    "include/xkbcommon/xkbcommon-compose.h",
+    "include/xkbcommon/xkbcommon-keysyms.h",
+    "include/xkbcommon/xkbcommon-names.h",
+    "include/xkbcommon/xkbcommon-x11.h",
+    "include/xkbcommon/xkbcommon.h",
+    "include/xkbcommon/xkbregistry.h",
+    "lib/libxkbcommon-x11.so",
+    "lib/libxkbcommon-x11.so.0",
+    "lib/libxkbcommon-x11.so.0.0.0",
+    "lib/libxkbcommon.so",
+    "lib/libxkbcommon.so.0",
+    "lib/libxkbcommon.so.0.0.0",
+    "lib/libxkbregistry.so",
+    "lib/libxkbregistry.so.0",
+    "lib/libxkbregistry.so.0.0.0",
+    "lib/pkgconfig/xkbcommon-x11.pc",
+    "lib/pkgconfig/xkbcommon.pc",
+    "lib/pkgconfig/xkbregistry.pc",
+    "libexec/xkbcommon/xkbcli-compile-keymap",
+    "libexec/xkbcommon/xkbcli-how-to-type",
+    "libexec/xkbcommon/xkbcli-interactive-evdev",
+    "libexec/xkbcommon/xkbcli-interactive-x11",
+    "libexec/xkbcommon/xkbcli-list",
+    "share/man/man1/xkbcli-compile-keymap.1",
+    "share/man/man1/xkbcli-how-to-type.1",
+    "share/man/man1/xkbcli-interactive-evdev.1",
+    "share/man/man1/xkbcli-interactive-x11.1",
+    "share/man/man1/xkbcli-list.1",
+    "share/man/man1/xkbcli.1"
+  ],
+  "fn": "libxkbcommon-1.0.1-h5eee18b_1.conda",
+  "license": "MIT/X11 Derivative",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libxkbcommon-1.0.1-h5eee18b_1",
+    "type": 1
+  },
+  "md5": "888b2e8f1bbf21017c503826e2d24b50",
+  "name": "libxkbcommon",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/libxkbcommon-1.0.1-h5eee18b_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/xkbcli",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libxkbcommon_1679578264835/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "676b5a95f92913c00fc6aa65ea4c93ac6eac13f0326dff9307ee16a8a3c8a39f",
+        "sha256_in_prefix": "2079b14dab218fdea9328611f61d1c2ad62690e7cee4140761adf128513af44e",
+        "size_in_bytes": 32760
+      },
+      {
+        "_path": "lib/libxkbcommon.so.0.0.0",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libxkbcommon_1679578264835/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "c013f92c322484438f4894087e3b9ce5dc2a69be2cc189b9ab6e4cd4e011b21b",
+        "sha256_in_prefix": "3b47135a298f624757ca180aff5df65e178b4bfb539ec657187118bb52a14bbe",
+        "size_in_bytes": 888648
+      },
+      {
+        "_path": "lib/libxkbregistry.so.0.0.0",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libxkbcommon_1679578264835/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "28cf6b6ea78263a5d57c5fe00e3ce3f79b4cd429dffb766cc38c93431c7b700d",
+        "sha256_in_prefix": "a15bc194626752acc5c7d47f74a8356da3b17c376e1ccd6425e7008d090b8ee1",
+        "size_in_bytes": 107040
+      },
+      {
+        "_path": "lib/pkgconfig/xkbcommon-x11.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libxkbcommon_1679578264835/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "5da2926d895f6042c9a9fe2734a09519e03911a1aca26e8fda31722e5926b1e6",
+        "sha256_in_prefix": "018d1a9345e85631ee60bf47dea959e0b3a5eee5714a3c0d0a4cec13f0526d61",
+        "size_in_bytes": 539
+      },
+      {
+        "_path": "lib/pkgconfig/xkbcommon.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libxkbcommon_1679578264835/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "af2b6d45d1de954675e59900fb4b85615273a0741f5207446abb764061245a37",
+        "sha256_in_prefix": "b513a6eb3960fea24fee200e4bd5e7e4939bead1c97e78d70cf5b06edddbd3ed",
+        "size_in_bytes": 450
+      },
+      {
+        "_path": "lib/pkgconfig/xkbregistry.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libxkbcommon_1679578264835/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "d20a5c36f6f70efd8eac1929d58db325f672e79dc8c031ac63d500a42f1735bd",
+        "sha256_in_prefix": "acf2bcb76bfe50963170d4473bc44d1e896e0bd6ec4faf89f944831a5f2780ea",
+        "size_in_bytes": 517
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::libxkbcommon==1.0.1=h5eee18b_1[md5=888b2e8f1bbf21017c503826e2d24b50]",
+  "sha256": "d0ad34ddd1a6d391ec291ae7a126646b2f5794cdca4bd00cc6e2afc4233fb27e",
+  "size": 604308,
+  "subdir": "linux-64",
+  "timestamp": 1679578328000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libxkbcommon-1.0.1-h5eee18b_1.conda",
+  "version": "1.0.1"
+}

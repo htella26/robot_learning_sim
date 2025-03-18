@@ -1,0 +1,104 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "matplotlib-base >=3.3"
+  ],
+  "depends": [
+    "imagecodecs >=2023.1.23",
+    "numpy >=1.19.2,<2.0a0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tifffile-2023.4.12-py312h06a4308_0",
+  "files": [
+    "bin/lsm2bin",
+    "bin/tiff2fsspec",
+    "bin/tiffcomment",
+    "bin/tifffile",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/LICENSE",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/METADATA",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/RECORD",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/WHEEL",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/tifffile-2023.4.12.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/tifffile/__init__.py",
+    "lib/python3.12/site-packages/tifffile/__main__.py",
+    "lib/python3.12/site-packages/tifffile/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/_imagecodecs.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/geodb.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/lsm2bin.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/numcodecs.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/tiff2fsspec.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/tiffcomment.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/__pycache__/tifffile.cpython-312.pyc",
+    "lib/python3.12/site-packages/tifffile/_imagecodecs.py",
+    "lib/python3.12/site-packages/tifffile/geodb.py",
+    "lib/python3.12/site-packages/tifffile/lsm2bin.py",
+    "lib/python3.12/site-packages/tifffile/numcodecs.py",
+    "lib/python3.12/site-packages/tifffile/tiff2fsspec.py",
+    "lib/python3.12/site-packages/tifffile/tiffcomment.py",
+    "lib/python3.12/site-packages/tifffile/tifffile.py"
+  ],
+  "fn": "tifffile-2023.4.12-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tifffile-2023.4.12-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "7d62753c5401d7d6168e03de71c4c980",
+  "name": "tifffile",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tifffile-2023.4.12-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/lsm2bin",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/tifffile_1698866341575/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "70e1f028b604fa50cd1858855f7f57767ced813cbd5d350e9808ac7b4bf8d8a7",
+        "sha256_in_prefix": "6244b69c484c021808c06abea9686e905577abc787a37c61a67c4ec2e8443744",
+        "size_in_bytes": 469
+      },
+      {
+        "_path": "bin/tiff2fsspec",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/tifffile_1698866341575/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "4d2a4a5de5a7c8be3f38604b2a95ae8eaa992180b014547c93a6139fe66fb02c",
+        "sha256_in_prefix": "0b9d764d0c9097063745e72bc4414df65c8077d4debbc1428ff1ababe9d17906",
+        "size_in_bytes": 473
+      },
+      {
+        "_path": "bin/tiffcomment",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/tifffile_1698866341575/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "e35562097cb81b81fabbd5b9f5b9919c1050e1a3c55b048e57c94b4aada819fa",
+        "sha256_in_prefix": "193253265e241cf37aab8f72e7063b81db3c4988ad91245c00289eed3ef20728",
+        "size_in_bytes": 473
+      },
+      {
+        "_path": "bin/tifffile",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/tifffile_1698866341575/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "edbc15ebe8093b028f1139c9afda3a4bed9a3e04a090ff770823a7ef7779c929",
+        "sha256_in_prefix": "aabb356078dcff648b60f55924e84936bfbdfdd1809d5855e0b68b1c1e07227e",
+        "size_in_bytes": 461
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::tifffile==2023.4.12=py312h06a4308_0[md5=7d62753c5401d7d6168e03de71c4c980]",
+  "sha256": "2955797163217ec27ad8861d1b27c39198bc3307484290fa3db7e9e247ed0672",
+  "size": 463172,
+  "subdir": "linux-64",
+  "timestamp": 1698866359000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tifffile-2023.4.12-py312h06a4308_0.conda",
+  "version": "2023.4.12"
+}

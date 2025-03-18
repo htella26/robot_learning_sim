@@ -1,0 +1,50 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/constantly-23.10.4-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/LICENSE",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/METADATA",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/RECORD",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/WHEEL",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/constantly-23.10.4.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/constantly/__init__.py",
+    "lib/python3.12/site-packages/constantly/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/constantly/__pycache__/_constants.cpython-312.pyc",
+    "lib/python3.12/site-packages/constantly/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/constantly/_constants.py",
+    "lib/python3.12/site-packages/constantly/_version.py",
+    "lib/python3.12/site-packages/constantly/test/__init__.py",
+    "lib/python3.12/site-packages/constantly/test/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/constantly/test/__pycache__/test_constants.cpython-312.pyc",
+    "lib/python3.12/site-packages/constantly/test/test_constants.py"
+  ],
+  "fn": "constantly-23.10.4-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/constantly-23.10.4-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "b84e14c021e378e0ff045e0f4b714345",
+  "name": "constantly",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/constantly-23.10.4-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::constantly==23.10.4=py312h06a4308_0[md5=b84e14c021e378e0ff045e0f4b714345]",
+  "sha256": "74cc4d1eaac9730d53cc7daab484a8442535bfb07ad45e3904fcb53adc4528bd",
+  "size": 31696,
+  "subdir": "linux-64",
+  "timestamp": 1703165697000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/constantly-23.10.4-py312h06a4308_0.conda",
+  "version": "23.10.4"
+}

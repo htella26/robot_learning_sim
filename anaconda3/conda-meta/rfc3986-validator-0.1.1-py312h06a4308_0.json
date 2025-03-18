@@ -1,0 +1,43 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rfc3986-validator-0.1.1-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/__pycache__/rfc3986_validator.cpython-312.pyc",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS.rst",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/rfc3986_validator.py"
+  ],
+  "fn": "rfc3986-validator-0.1.1-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rfc3986-validator-0.1.1-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "f9800ce161ed779b8cf7a1cd6d7ae0f5",
+  "name": "rfc3986-validator",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rfc3986-validator-0.1.1-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::rfc3986-validator==0.1.1=py312h06a4308_0[md5=f9800ce161ed779b8cf7a1cd6d7ae0f5]",
+  "sha256": "ef6bbebfa6fd59b77df578d3eee7ffb1545ac2136c33ca7e6412dc77a40f53cd",
+  "size": 9653,
+  "subdir": "linux-64",
+  "timestamp": 1698874044000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/rfc3986-validator-0.1.1-py312h06a4308_0.conda",
+  "version": "0.1.1"
+}

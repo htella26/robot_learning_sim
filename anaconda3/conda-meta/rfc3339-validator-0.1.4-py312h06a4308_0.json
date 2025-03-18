@@ -1,0 +1,44 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rfc3339-validator-0.1.4-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/__pycache__/rfc3339_validator.cpython-312.pyc",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS.rst",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/LICENSE",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/METADATA",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/RECORD",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/WHEEL",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/rfc3339_validator.py"
+  ],
+  "fn": "rfc3339-validator-0.1.4-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rfc3339-validator-0.1.4-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "2b1db8c436c99c6856a78dad8f2278a1",
+  "name": "rfc3339-validator",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rfc3339-validator-0.1.4-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::rfc3339-validator==0.1.4=py312h06a4308_0[md5=2b1db8c436c99c6856a78dad8f2278a1]",
+  "sha256": "9496bdba11683f4f0d27a726314613fa868ce7e82de38c028b8c1bf8d29316ae",
+  "size": 9561,
+  "subdir": "linux-64",
+  "timestamp": 1698874007000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/rfc3339-validator-0.1.4-py312h06a4308_0.conda",
+  "version": "0.1.4"
+}

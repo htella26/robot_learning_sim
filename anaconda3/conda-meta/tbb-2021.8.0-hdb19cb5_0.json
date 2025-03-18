@@ -1,0 +1,39 @@
+{
+  "build": "hdb19cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tbb-2021.8.0-hdb19cb5_0",
+  "files": [
+    "lib/libtbb.so.12",
+    "lib/libtbb.so.12.8",
+    "lib/libtbbmalloc.so.2",
+    "lib/libtbbmalloc.so.2.8",
+    "lib/libtbbmalloc_proxy.so.2",
+    "lib/libtbbmalloc_proxy.so.2.8"
+  ],
+  "fn": "tbb-2021.8.0-hdb19cb5_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tbb-2021.8.0-hdb19cb5_0",
+    "type": 1
+  },
+  "md5": "869373905a6bfacbb967abc98516dd85",
+  "name": "tbb",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tbb-2021.8.0-hdb19cb5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::tbb==2021.8.0=hdb19cb5_0[md5=869373905a6bfacbb967abc98516dd85]",
+  "sha256": "c4667f31fd0f7ed35796f2f9b4e7f00bf2ec6ccafb67bd8fe1bd9dd488ad8f75",
+  "size": 1728218,
+  "subdir": "linux-64",
+  "timestamp": 1680167274000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tbb-2021.8.0-hdb19cb5_0.conda",
+  "version": "2021.8.0"
+}

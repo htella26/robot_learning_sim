@@ -1,0 +1,34 @@
+{
+  "build": "hdbd6064_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libcurl 8.9.1 h251f7ec_0",
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/curl-8.9.1-hdbd6064_0",
+  "files": [
+    "bin/curl"
+  ],
+  "fn": "curl-8.9.1-hdbd6064_0.conda",
+  "license": "curl",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/curl-8.9.1-hdbd6064_0",
+    "type": 1
+  },
+  "md5": "52ef43af44b3c55a6cc3cd7e5adfb0eb",
+  "name": "curl",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/curl-8.9.1-hdbd6064_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::curl==8.9.1=hdbd6064_0[md5=52ef43af44b3c55a6cc3cd7e5adfb0eb]",
+  "sha256": "a0bc9e490c8e00fcc7f98a1d70778872f0529998342d1b9c387d88848e4d208a",
+  "size": 89502,
+  "subdir": "linux-64",
+  "timestamp": 1725033943000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/curl-8.9.1-hdbd6064_0.conda",
+  "version": "8.9.1"
+}

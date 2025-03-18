@@ -1,0 +1,70 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "click >=5.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/python-dotenv-0.21.0-py312h06a4308_0",
+  "files": [
+    "bin/dotenv",
+    "lib/python3.12/site-packages/dotenv/__init__.py",
+    "lib/python3.12/site-packages/dotenv/__main__.py",
+    "lib/python3.12/site-packages/dotenv/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/cli.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/ipython.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/main.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/parser.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/variables.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/__pycache__/version.cpython-312.pyc",
+    "lib/python3.12/site-packages/dotenv/cli.py",
+    "lib/python3.12/site-packages/dotenv/ipython.py",
+    "lib/python3.12/site-packages/dotenv/main.py",
+    "lib/python3.12/site-packages/dotenv/parser.py",
+    "lib/python3.12/site-packages/dotenv/py.typed",
+    "lib/python3.12/site-packages/dotenv/variables.py",
+    "lib/python3.12/site-packages/dotenv/version.py",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/python_dotenv-0.21.0.dist-info/top_level.txt"
+  ],
+  "fn": "python-dotenv-0.21.0-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/python-dotenv-0.21.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "f983f4d6278453e00f637442967b29fa",
+  "name": "python-dotenv",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/python-dotenv-0.21.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/dotenv",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/python-dotenv_1698846722824/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "fc6b11640008a49f9a8754dd583f9c8e7c00e301aaa3b559aa4e1684bf29b0c5",
+        "sha256_in_prefix": "30186bb800455686e2963c36744e6671221de0a6e120a955602c4d3e0669285c",
+        "size_in_bytes": 461
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::python-dotenv==0.21.0=py312h06a4308_0[md5=f983f4d6278453e00f637442967b29fa]",
+  "sha256": "fc954b6bfa575714749f0a80f61bbfebd86f5439c72a5101c9d601929370d774",
+  "size": 38932,
+  "subdir": "linux-64",
+  "timestamp": 1698846740000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/python-dotenv-0.21.0-py312h06a4308_0.conda",
+  "version": "0.21.0"
+}

@@ -1,0 +1,53 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libspatialindex >=1.8.5",
+    "libspatialindex >=1.9.3,<1.9.4.0a0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rtree-1.0.1-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/LICENSE.txt",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/Rtree-1.0.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/rtree/__init__.py",
+    "lib/python3.12/site-packages/rtree/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/rtree/__pycache__/core.cpython-312.pyc",
+    "lib/python3.12/site-packages/rtree/__pycache__/exceptions.cpython-312.pyc",
+    "lib/python3.12/site-packages/rtree/__pycache__/finder.cpython-312.pyc",
+    "lib/python3.12/site-packages/rtree/__pycache__/index.cpython-312.pyc",
+    "lib/python3.12/site-packages/rtree/core.py",
+    "lib/python3.12/site-packages/rtree/exceptions.py",
+    "lib/python3.12/site-packages/rtree/finder.py",
+    "lib/python3.12/site-packages/rtree/index.py",
+    "lib/python3.12/site-packages/rtree/py.typed"
+  ],
+  "fn": "rtree-1.0.1-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rtree-1.0.1-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "58c4db6c2dca8e026a9c14f85444a006",
+  "name": "rtree",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/rtree-1.0.1-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::rtree==1.0.1=py312h06a4308_0[md5=58c4db6c2dca8e026a9c14f85444a006]",
+  "sha256": "b0922676c0338213e457f686f756e6b8fdc99973728bd8d17468bb5c68fa2d22",
+  "size": 59817,
+  "subdir": "linux-64",
+  "timestamp": 1698900888000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/rtree-1.0.1-py312h06a4308_0.conda",
+  "version": "1.0.1"
+}

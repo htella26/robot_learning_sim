@@ -1,0 +1,42 @@
+{
+  "build": "py312h5eee18b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "mkl >=2023.1.0,<2024.0a0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/mkl-service-2.4.0-py312h5eee18b_1",
+  "files": [
+    "lib/python3.12/site-packages/mkl/__init__.py",
+    "lib/python3.12/site-packages/mkl/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/mkl/_mklinit.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/mkl/_py_mkl_service.cpython-312-x86_64-linux-gnu.so",
+    "lib/python3.12/site-packages/mkl_service-2.4.0-py3.12.egg-info/PKG-INFO",
+    "lib/python3.12/site-packages/mkl_service-2.4.0-py3.12.egg-info/SOURCES.txt",
+    "lib/python3.12/site-packages/mkl_service-2.4.0-py3.12.egg-info/dependency_links.txt",
+    "lib/python3.12/site-packages/mkl_service-2.4.0-py3.12.egg-info/top_level.txt"
+  ],
+  "fn": "mkl-service-2.4.0-py312h5eee18b_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/mkl-service-2.4.0-py312h5eee18b_1",
+    "type": 1
+  },
+  "md5": "cbcf902f69dde50490e8e7254070fbc6",
+  "name": "mkl-service",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/mkl-service-2.4.0-py312h5eee18b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::mkl-service==2.4.0=py312h5eee18b_1[md5=cbcf902f69dde50490e8e7254070fbc6]",
+  "sha256": "4b83fa638e1be68f0772b9cc1b0d453fa607dd4fa1863d52ea5a04b2d8e8346b",
+  "size": 68011,
+  "subdir": "linux-64",
+  "timestamp": 1698805476000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/mkl-service-2.4.0-py312h5eee18b_1.conda",
+  "version": "2.4.0"
+}

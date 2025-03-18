@@ -1,0 +1,50 @@
+{
+  "build": "py312h5eee18b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.1",
+    "libgcc-ng >=11.2.0",
+    "pip",
+    "python >=3.12,<3.13.0a0",
+    "six >=1.4.1"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/bcrypt-3.2.0-py312h5eee18b_1",
+  "files": [
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/bcrypt-3.2.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/bcrypt/__about__.py",
+    "lib/python3.12/site-packages/bcrypt/__init__.py",
+    "lib/python3.12/site-packages/bcrypt/__pycache__/__about__.cpython-312.pyc",
+    "lib/python3.12/site-packages/bcrypt/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/bcrypt/_bcrypt.abi3.so",
+    "lib/python3.12/site-packages/bcrypt/py.typed"
+  ],
+  "fn": "bcrypt-3.2.0-py312h5eee18b_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/bcrypt-3.2.0-py312h5eee18b_1",
+    "type": 1
+  },
+  "md5": "556acaef7d2feadd4d01b0b3e66cbfa8",
+  "name": "bcrypt",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/bcrypt-3.2.0-py312h5eee18b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::bcrypt==3.2.0=py312h5eee18b_1[md5=556acaef7d2feadd4d01b0b3e66cbfa8]",
+  "sha256": "fcdaaa29d61ec253a577befd9a02534d489f94155ac23e817a0b473e3f328028",
+  "size": 42305,
+  "subdir": "linux-64",
+  "timestamp": 1698864063000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/bcrypt-3.2.0-py312h5eee18b_1.conda",
+  "version": "3.2.0"
+}

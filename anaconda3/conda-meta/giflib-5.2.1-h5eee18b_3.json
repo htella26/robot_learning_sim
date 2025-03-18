@@ -1,0 +1,55 @@
+{
+  "build": "h5eee18b_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/giflib-5.2.1-h5eee18b_3",
+  "files": [
+    "bin/gif2rgb",
+    "bin/gifbuild",
+    "bin/gifclrmp",
+    "bin/giffix",
+    "bin/giftext",
+    "bin/giftool",
+    "include/gif_lib.h",
+    "lib/libgif.so",
+    "lib/libgif.so.7",
+    "lib/libgif.so.7.2.0",
+    "share/man/man1/gif2rgb.1",
+    "share/man/man1/gifbg.1",
+    "share/man/man1/gifbuild.1",
+    "share/man/man1/gifclrmp.1",
+    "share/man/man1/gifcolor.1",
+    "share/man/man1/gifecho.1",
+    "share/man/man1/giffix.1",
+    "share/man/man1/gifhisto.1",
+    "share/man/man1/gifinto.1",
+    "share/man/man1/giflib.1",
+    "share/man/man1/giftext.1",
+    "share/man/man1/giftool.1",
+    "share/man/man1/gifwedge.1"
+  ],
+  "fn": "giflib-5.2.1-h5eee18b_3.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/giflib-5.2.1-h5eee18b_3",
+    "type": 1
+  },
+  "md5": "aa7d64adb3cd8a75d398167f8c29afc3",
+  "name": "giflib",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/giflib-5.2.1-h5eee18b_3.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::giflib==5.2.1=h5eee18b_3[md5=aa7d64adb3cd8a75d398167f8c29afc3]",
+  "sha256": "733084f0c4c2c5ef1723fab13f38b389d279c197f408fd724d399ef9c4ecfcc9",
+  "size": 81965,
+  "subdir": "linux-64",
+  "timestamp": 1676983203000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/giflib-5.2.1-h5eee18b_3.conda",
+  "version": "5.2.1"
+}

@@ -1,0 +1,61 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/python-fastjsonschema-2.16.2-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/AUTHORS",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/LICENSE",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/METADATA",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/RECORD",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/WHEEL",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/fastjsonschema-2.16.2.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/fastjsonschema/__init__.py",
+    "lib/python3.12/site-packages/fastjsonschema/__main__.py",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/draft04.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/draft06.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/draft07.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/exceptions.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/generator.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/indent.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/ref_resolver.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/__pycache__/version.cpython-312.pyc",
+    "lib/python3.12/site-packages/fastjsonschema/draft04.py",
+    "lib/python3.12/site-packages/fastjsonschema/draft06.py",
+    "lib/python3.12/site-packages/fastjsonschema/draft07.py",
+    "lib/python3.12/site-packages/fastjsonschema/exceptions.py",
+    "lib/python3.12/site-packages/fastjsonschema/generator.py",
+    "lib/python3.12/site-packages/fastjsonschema/indent.py",
+    "lib/python3.12/site-packages/fastjsonschema/ref_resolver.py",
+    "lib/python3.12/site-packages/fastjsonschema/version.py"
+  ],
+  "fn": "python-fastjsonschema-2.16.2-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/python-fastjsonschema-2.16.2-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "56f31b415091b046a5e6766911600d12",
+  "name": "python-fastjsonschema",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/python-fastjsonschema-2.16.2-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::python-fastjsonschema==2.16.2=py312h06a4308_0[md5=56f31b415091b046a5e6766911600d12]",
+  "sha256": "656dac147f5b42ffd1ef38b0f9ef9fbbfdcc045c7aea8e9a029053f15faf59de",
+  "size": 250157,
+  "subdir": "linux-64",
+  "timestamp": 1698846760000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/python-fastjsonschema-2.16.2-py312h06a4308_0.conda",
+  "version": "2.16.2"
+}

@@ -1,0 +1,45 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/docstring-to-markdown-0.11-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/LICENSE",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/METADATA",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/RECORD",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/WHEEL",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/docstring_to_markdown-0.11.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/docstring_to_markdown/__init__.py",
+    "lib/python3.12/site-packages/docstring_to_markdown/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/docstring_to_markdown/__pycache__/rst.cpython-312.pyc",
+    "lib/python3.12/site-packages/docstring_to_markdown/py.typed",
+    "lib/python3.12/site-packages/docstring_to_markdown/rst.py"
+  ],
+  "fn": "docstring-to-markdown-0.11-py312h06a4308_0.conda",
+  "license": "LGPL-2.1-or-later",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/docstring-to-markdown-0.11-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "81a1a698300865f094e8d2f650a8c672",
+  "name": "docstring-to-markdown",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/docstring-to-markdown-0.11-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::docstring-to-markdown==0.11=py312h06a4308_0[md5=81a1a698300865f094e8d2f650a8c672]",
+  "sha256": "aa0a1788a8cb0416ba0ce5cb7bd27c34bb4cf31d7d1f16209bf0613314f2e465",
+  "size": 34593,
+  "subdir": "linux-64",
+  "timestamp": 1698864389000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/docstring-to-markdown-0.11-py312h06a4308_0.conda",
+  "version": "0.11"
+}

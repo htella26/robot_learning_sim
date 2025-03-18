@@ -1,0 +1,56 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "webencodings >=0.4"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tinycss2-1.2.1-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/tinycss2/__init__.py",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/ast.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/bytes.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/color3.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/nth.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/parser.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/serializer.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/__pycache__/tokenizer.cpython-312.pyc",
+    "lib/python3.12/site-packages/tinycss2/ast.py",
+    "lib/python3.12/site-packages/tinycss2/bytes.py",
+    "lib/python3.12/site-packages/tinycss2/color3.py",
+    "lib/python3.12/site-packages/tinycss2/nth.py",
+    "lib/python3.12/site-packages/tinycss2/parser.py",
+    "lib/python3.12/site-packages/tinycss2/serializer.py",
+    "lib/python3.12/site-packages/tinycss2/tokenizer.py"
+  ],
+  "fn": "tinycss2-1.2.1-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tinycss2-1.2.1-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "53422e62ac2d242aa12575ba12c2d430",
+  "name": "tinycss2",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tinycss2-1.2.1-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::tinycss2==1.2.1=py312h06a4308_0[md5=53422e62ac2d242aa12575ba12c2d430]",
+  "sha256": "cb1c08ae4189c9f2b5387f7749060e0cdc3ba133c44c3cd8e6538045db1e568e",
+  "size": 45532,
+  "subdir": "linux-64",
+  "timestamp": 1698875086000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tinycss2-1.2.1-py312h06a4308_0.conda",
+  "version": "1.2.1"
+}

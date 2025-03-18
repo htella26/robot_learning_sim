@@ -1,0 +1,61 @@
+{
+  "build": "h5eee18b_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jpeg-9e-h5eee18b_3",
+  "files": [
+    "bin/cjpeg",
+    "bin/djpeg",
+    "bin/jpegtran",
+    "bin/rdjpgcom",
+    "bin/wrjpgcom",
+    "include/jconfig.h",
+    "include/jerror.h",
+    "include/jmorecfg.h",
+    "include/jpeglib.h",
+    "lib/libjpeg.a",
+    "lib/libjpeg.so",
+    "lib/libjpeg.so.9",
+    "lib/libjpeg.so.9.5.0",
+    "lib/pkgconfig/libjpeg.pc",
+    "share/man/man1/cjpeg.1",
+    "share/man/man1/djpeg.1",
+    "share/man/man1/jpegtran.1",
+    "share/man/man1/rdjpgcom.1",
+    "share/man/man1/wrjpgcom.1"
+  ],
+  "fn": "jpeg-9e-h5eee18b_3.conda",
+  "license": "IJG",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jpeg-9e-h5eee18b_3",
+    "type": 1
+  },
+  "md5": "7c070fc8280710bdbef12813039058f8",
+  "name": "jpeg",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/jpeg-9e-h5eee18b_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/pkgconfig/libjpeg.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/jpeg_1722872631831/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "34029f9d1114e90f6899ee075e0fb8f091ba806699a2ea3fa4ccabbcacaeba78",
+        "sha256_in_prefix": "2f5abb8a8414cb1983dcc933a2fd22ee6b4d4ec2c3573eea9f721ca117058eba",
+        "size_in_bytes": 460
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::jpeg==9e=h5eee18b_3[md5=7c070fc8280710bdbef12813039058f8]",
+  "sha256": "8ec369049bfcba2985bbdbf8835f1297047ab1a15462016fe30689ecc823fc84",
+  "size": 268332,
+  "subdir": "linux-64",
+  "timestamp": 1722872662000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/jpeg-9e-h5eee18b_3.conda",
+  "version": "9e"
+}

@@ -1,0 +1,68 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "cryptography >=3.4.0"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pyjwt-2.8.0-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/AUTHORS.rst",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/PyJWT-2.8.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/jwt/__init__.py",
+    "lib/python3.12/site-packages/jwt/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/algorithms.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/api_jwk.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/api_jws.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/api_jwt.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/exceptions.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/help.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/jwk_set_cache.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/jwks_client.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/types.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/__pycache__/warnings.cpython-312.pyc",
+    "lib/python3.12/site-packages/jwt/algorithms.py",
+    "lib/python3.12/site-packages/jwt/api_jwk.py",
+    "lib/python3.12/site-packages/jwt/api_jws.py",
+    "lib/python3.12/site-packages/jwt/api_jwt.py",
+    "lib/python3.12/site-packages/jwt/exceptions.py",
+    "lib/python3.12/site-packages/jwt/help.py",
+    "lib/python3.12/site-packages/jwt/jwk_set_cache.py",
+    "lib/python3.12/site-packages/jwt/jwks_client.py",
+    "lib/python3.12/site-packages/jwt/py.typed",
+    "lib/python3.12/site-packages/jwt/types.py",
+    "lib/python3.12/site-packages/jwt/utils.py",
+    "lib/python3.12/site-packages/jwt/warnings.py"
+  ],
+  "fn": "pyjwt-2.8.0-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pyjwt-2.8.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "d7241f586d81ecfd3b019bb490e4b292",
+  "name": "pyjwt",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pyjwt-2.8.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::pyjwt==2.8.0=py312h06a4308_0[md5=d7241f586d81ecfd3b019bb490e4b292]",
+  "sha256": "224d1571cd40900725457a84298e0a27017bb572a7b8f7d973532d843ddbed6f",
+  "size": 85128,
+  "subdir": "linux-64",
+  "timestamp": 1715094776000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pyjwt-2.8.0-py312h06a4308_0.conda",
+  "version": "2.8.0"
+}

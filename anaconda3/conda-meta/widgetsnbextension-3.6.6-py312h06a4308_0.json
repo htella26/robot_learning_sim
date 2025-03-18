@@ -1,0 +1,50 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "notebook >=4.4.1",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/widgetsnbextension-3.6.6-py312h06a4308_0",
+  "files": [
+    "etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/LICENSE",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/METADATA",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/RECORD",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/WHEEL",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/widgetsnbextension-3.6.6.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/widgetsnbextension/__init__.py",
+    "lib/python3.12/site-packages/widgetsnbextension/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/widgetsnbextension/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/widgetsnbextension/_version.py",
+    "lib/python3.12/site-packages/widgetsnbextension/static/extension.js",
+    "lib/python3.12/site-packages/widgetsnbextension/static/extension.js.map",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map"
+  ],
+  "fn": "widgetsnbextension-3.6.6-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/widgetsnbextension-3.6.6-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "9ef174a78b562586e20f1cf6a9e04ba3",
+  "name": "widgetsnbextension",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/widgetsnbextension-3.6.6-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::widgetsnbextension==3.6.6=py312h06a4308_0[md5=9ef174a78b562586e20f1cf6a9e04ba3]",
+  "sha256": "e780eb7daed41e2afbe81e6fe2ff39d2c6b78d6ccf9c9d0b477acf5d5d9fa9f5",
+  "size": 687836,
+  "subdir": "linux-64",
+  "timestamp": 1710960118000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/widgetsnbextension-3.6.6-py312h06a4308_0.conda",
+  "version": "3.6.6"
+}

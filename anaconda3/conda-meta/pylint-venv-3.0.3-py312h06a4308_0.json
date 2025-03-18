@@ -1,0 +1,41 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pylint-venv-3.0.3-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/__pycache__/pylint_venv.cpython-312.pyc",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/LICENSE.txt",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/METADATA",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/RECORD",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/WHEEL",
+    "lib/python3.12/site-packages/pylint_venv-3.0.3.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/pylint_venv.py"
+  ],
+  "fn": "pylint-venv-3.0.3-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pylint-venv-3.0.3-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "4afc92540fee37f7832c49f6a0a38170",
+  "name": "pylint-venv",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pylint-venv-3.0.3-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::pylint-venv==3.0.3=py312h06a4308_0[md5=4afc92540fee37f7832c49f6a0a38170]",
+  "sha256": "2d80bcb83acf3ab81bb93607bde9919aae5674f25230c7aa552201c9ad188281",
+  "size": 12447,
+  "subdir": "linux-64",
+  "timestamp": 1709837635000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pylint-venv-3.0.3-py312h06a4308_0.conda",
+  "version": "3.0.3"
+}

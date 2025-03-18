@@ -1,0 +1,35 @@
+{
+  "build": "h5eee18b_8",
+  "build_number": 8,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libbrotlidec 1.0.9 h5eee18b_8",
+    "libbrotlienc 1.0.9 h5eee18b_8",
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/brotli-bin-1.0.9-h5eee18b_8",
+  "files": [
+    "bin/brotli"
+  ],
+  "fn": "brotli-bin-1.0.9-h5eee18b_8.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/brotli-bin-1.0.9-h5eee18b_8",
+    "type": 1
+  },
+  "md5": "9820670bfb9cae1e93a2646676bc1b7b",
+  "name": "brotli-bin",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/brotli-bin-1.0.9-h5eee18b_8.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::brotli-bin==1.0.9=h5eee18b_8[md5=9820670bfb9cae1e93a2646676bc1b7b]",
+  "sha256": "fc65f12f6fcaaf977ff554964de3f3127310d61e6b830f29b8491fb921e0a88a",
+  "size": 18975,
+  "subdir": "linux-64",
+  "timestamp": 1714483255000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/brotli-bin-1.0.9-h5eee18b_8.conda",
+  "version": "1.0.9"
+}

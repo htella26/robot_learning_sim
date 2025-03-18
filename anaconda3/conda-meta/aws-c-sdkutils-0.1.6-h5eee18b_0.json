@@ -1,0 +1,54 @@
+{
+  "build": "h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-sdkutils-0.1.6-h5eee18b_0",
+  "files": [
+    "include/aws/sdkutils/aws_profile.h",
+    "include/aws/sdkutils/endpoints_rule_engine.h",
+    "include/aws/sdkutils/exports.h",
+    "include/aws/sdkutils/partitions.h",
+    "include/aws/sdkutils/resource_name.h",
+    "include/aws/sdkutils/sdkutils.h",
+    "lib/aws-c-sdkutils/cmake/aws-c-sdkutils-config.cmake",
+    "lib/aws-c-sdkutils/cmake/shared/aws-c-sdkutils-targets-release.cmake",
+    "lib/aws-c-sdkutils/cmake/shared/aws-c-sdkutils-targets.cmake",
+    "lib/libaws-c-sdkutils.so",
+    "lib/libaws-c-sdkutils.so.1.0.0"
+  ],
+  "fn": "aws-c-sdkutils-0.1.6-h5eee18b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-sdkutils-0.1.6-h5eee18b_0",
+    "type": 1
+  },
+  "md5": "552feafbf27138bcc06580e515ee50e4",
+  "name": "aws-c-sdkutils",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-sdkutils-0.1.6-h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libaws-c-sdkutils.so.1.0.0",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/aws-c-sdkutils_1706690773399/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "b628ce41b8a9f431157b7e0eb54ae6f7d0dbb8e498e943e38079adb10f1eccf6",
+        "sha256_in_prefix": "f39631eea6dda0ad5ff03d5f4ea16a9c3fc5b9bb1816cd3587cf362008ca4cc8",
+        "size_in_bytes": 113176
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::aws-c-sdkutils==0.1.6=h5eee18b_0[md5=552feafbf27138bcc06580e515ee50e4]",
+  "sha256": "9eab35d211d8ffef8f7a5d1b51bec71abd98afe3e59bd87e3f2a62a895f48da2",
+  "size": 51312,
+  "subdir": "linux-64",
+  "timestamp": 1706690818000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/aws-c-sdkutils-0.1.6-h5eee18b_0.conda",
+  "version": "0.1.6"
+}

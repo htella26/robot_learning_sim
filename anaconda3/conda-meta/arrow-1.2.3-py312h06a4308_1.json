@@ -1,0 +1,62 @@
+{
+  "build": "py312h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "python-dateutil >=2.7.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/arrow-1.2.3-py312h06a4308_1",
+  "files": [
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/LICENSE",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/METADATA",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/RECORD",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/WHEEL",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/arrow-1.2.3.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/arrow/__init__.py",
+    "lib/python3.12/site-packages/arrow/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/api.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/arrow.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/constants.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/factory.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/formatter.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/locales.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/parser.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/__pycache__/util.cpython-312.pyc",
+    "lib/python3.12/site-packages/arrow/_version.py",
+    "lib/python3.12/site-packages/arrow/api.py",
+    "lib/python3.12/site-packages/arrow/arrow.py",
+    "lib/python3.12/site-packages/arrow/constants.py",
+    "lib/python3.12/site-packages/arrow/factory.py",
+    "lib/python3.12/site-packages/arrow/formatter.py",
+    "lib/python3.12/site-packages/arrow/locales.py",
+    "lib/python3.12/site-packages/arrow/parser.py",
+    "lib/python3.12/site-packages/arrow/py.typed",
+    "lib/python3.12/site-packages/arrow/util.py"
+  ],
+  "fn": "arrow-1.2.3-py312h06a4308_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/arrow-1.2.3-py312h06a4308_1",
+    "type": 1
+  },
+  "md5": "cc339dab259fe195a1442bead73f5578",
+  "name": "arrow",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/arrow-1.2.3-py312h06a4308_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::arrow==1.2.3=py312h06a4308_1[md5=cc339dab259fe195a1442bead73f5578]",
+  "sha256": "f217c7dee2abaa7ac6e0766ae0e110042be551a4b74ac3199cec1453b44d6462",
+  "size": 169351,
+  "subdir": "linux-64",
+  "timestamp": 1698877259000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/arrow-1.2.3-py312h06a4308_1.conda",
+  "version": "1.2.3"
+}

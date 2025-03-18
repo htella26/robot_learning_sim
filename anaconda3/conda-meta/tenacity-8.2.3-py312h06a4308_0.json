@@ -1,0 +1,63 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tenacity-8.2.3-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/LICENSE",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/METADATA",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/RECORD",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/WHEEL",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/tenacity-8.2.3.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/tenacity/__init__.py",
+    "lib/python3.12/site-packages/tenacity/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/_asyncio.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/_utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/after.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/before.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/before_sleep.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/nap.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/retry.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/stop.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/tornadoweb.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/__pycache__/wait.cpython-312.pyc",
+    "lib/python3.12/site-packages/tenacity/_asyncio.py",
+    "lib/python3.12/site-packages/tenacity/_utils.py",
+    "lib/python3.12/site-packages/tenacity/after.py",
+    "lib/python3.12/site-packages/tenacity/before.py",
+    "lib/python3.12/site-packages/tenacity/before_sleep.py",
+    "lib/python3.12/site-packages/tenacity/nap.py",
+    "lib/python3.12/site-packages/tenacity/py.typed",
+    "lib/python3.12/site-packages/tenacity/retry.py",
+    "lib/python3.12/site-packages/tenacity/stop.py",
+    "lib/python3.12/site-packages/tenacity/tornadoweb.py",
+    "lib/python3.12/site-packages/tenacity/wait.py"
+  ],
+  "fn": "tenacity-8.2.3-py312h06a4308_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tenacity-8.2.3-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "9c17b4cfd5ce6d2e5f8f8af8bada598b",
+  "name": "tenacity",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/tenacity-8.2.3-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::tenacity==8.2.3=py312h06a4308_0[md5=9c17b4cfd5ce6d2e5f8f8af8bada598b]",
+  "sha256": "7e0d858f61269a10ed64cc269f545cd7b30bbd1563d2aedbb35b022f285b4b31",
+  "size": 55862,
+  "subdir": "linux-64",
+  "timestamp": 1721222534000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tenacity-8.2.3-py312h06a4308_0.conda",
+  "version": "8.2.3"
+}

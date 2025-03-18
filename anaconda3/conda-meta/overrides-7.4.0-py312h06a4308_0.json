@@ -1,0 +1,53 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/overrides-7.4.0-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/overrides-7.4.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/overrides/__init__.py",
+    "lib/python3.12/site-packages/overrides/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/overrides/__pycache__/enforce.cpython-312.pyc",
+    "lib/python3.12/site-packages/overrides/__pycache__/final.cpython-312.pyc",
+    "lib/python3.12/site-packages/overrides/__pycache__/overrides.cpython-312.pyc",
+    "lib/python3.12/site-packages/overrides/__pycache__/signature.cpython-312.pyc",
+    "lib/python3.12/site-packages/overrides/__pycache__/typing_utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/overrides/enforce.py",
+    "lib/python3.12/site-packages/overrides/final.py",
+    "lib/python3.12/site-packages/overrides/overrides.py",
+    "lib/python3.12/site-packages/overrides/py.typed",
+    "lib/python3.12/site-packages/overrides/signature.py",
+    "lib/python3.12/site-packages/overrides/typing_utils.py"
+  ],
+  "fn": "overrides-7.4.0-py312h06a4308_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/overrides-7.4.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "b294a9b6e5b7654cc7012f3690a7c57f",
+  "name": "overrides",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/overrides-7.4.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::overrides==7.4.0=py312h06a4308_0[md5=b294a9b6e5b7654cc7012f3690a7c57f]",
+  "sha256": "e305f8a439d271249aaab986f7da356e18126174800550cda6dea644f962617a",
+  "size": 36719,
+  "subdir": "linux-64",
+  "timestamp": 1701732259000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/overrides-7.4.0-py312h06a4308_0.conda",
+  "version": "7.4.0"
+}

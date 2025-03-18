@@ -1,0 +1,49 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "uc-micro-py >=1.0.1,<2.0.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/linkify-it-py-2.0.0-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/linkify_it/__init__.py",
+    "lib/python3.12/site-packages/linkify_it/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/linkify_it/__pycache__/main.cpython-312.pyc",
+    "lib/python3.12/site-packages/linkify_it/__pycache__/tlds.cpython-312.pyc",
+    "lib/python3.12/site-packages/linkify_it/__pycache__/ucre.cpython-312.pyc",
+    "lib/python3.12/site-packages/linkify_it/main.py",
+    "lib/python3.12/site-packages/linkify_it/tlds.py",
+    "lib/python3.12/site-packages/linkify_it/ucre.py",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/linkify_it_py-2.0.0.dist-info/top_level.txt"
+  ],
+  "fn": "linkify-it-py-2.0.0-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/linkify-it-py-2.0.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "68b194a12b09ab4aca3fc89da29c7f6a",
+  "name": "linkify-it-py",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/linkify-it-py-2.0.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::linkify-it-py==2.0.0=py312h06a4308_0[md5=68b194a12b09ab4aca3fc89da29c7f6a]",
+  "sha256": "98e23caf8ee39141b769cf8eaa9f9d963cee71787831352df7ab567ac7df6664",
+  "size": 39205,
+  "subdir": "linux-64",
+  "timestamp": 1698889389000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/linkify-it-py-2.0.0-py312h06a4308_0.conda",
+  "version": "2.0.0"
+}

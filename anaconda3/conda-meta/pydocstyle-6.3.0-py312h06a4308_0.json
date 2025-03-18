@@ -1,0 +1,73 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "snowballstemmer >=2.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pydocstyle-6.3.0-py312h06a4308_0",
+  "files": [
+    "bin/pydocstyle",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/pydocstyle-6.3.0.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/pydocstyle/__init__.py",
+    "lib/python3.12/site-packages/pydocstyle/__main__.py",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/checker.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/cli.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/config.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/parser.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/violations.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/__pycache__/wordlists.cpython-312.pyc",
+    "lib/python3.12/site-packages/pydocstyle/_version.py",
+    "lib/python3.12/site-packages/pydocstyle/checker.py",
+    "lib/python3.12/site-packages/pydocstyle/cli.py",
+    "lib/python3.12/site-packages/pydocstyle/config.py",
+    "lib/python3.12/site-packages/pydocstyle/data/imperatives.txt",
+    "lib/python3.12/site-packages/pydocstyle/data/imperatives_blacklist.txt",
+    "lib/python3.12/site-packages/pydocstyle/parser.py",
+    "lib/python3.12/site-packages/pydocstyle/utils.py",
+    "lib/python3.12/site-packages/pydocstyle/violations.py",
+    "lib/python3.12/site-packages/pydocstyle/wordlists.py"
+  ],
+  "fn": "pydocstyle-6.3.0-py312h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pydocstyle-6.3.0-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "fcb2df64e0aa5408a69e7ffac35a105c",
+  "name": "pydocstyle",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/pydocstyle-6.3.0-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pydocstyle",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/work/perseverance-python-buildout/croot/pydocstyle_1698865417470/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "473e4fb7b4561b4ca09b0d51b07ae5b0e59352bbbbdbbd152c66ba0fcc9c024c",
+        "sha256_in_prefix": "f99cdf4dbb467617b05daa6f6443447d8a01f9470d4f84521b7e49b14331638a",
+        "size_in_bytes": 467
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::pydocstyle==6.3.0=py312h06a4308_0[md5=fcb2df64e0aa5408a69e7ffac35a105c]",
+  "sha256": "df6ce43780211947f081ee45a9d58660b9ca907e7550280dc2eaa2c3c2c015c8",
+  "size": 88499,
+  "subdir": "linux-64",
+  "timestamp": 1698865435000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pydocstyle-6.3.0-py312h06a4308_0.conda",
+  "version": "6.3.0"
+}

@@ -1,0 +1,71 @@
+{
+  "build": "h7b6447c_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/lzo-2.10-h7b6447c_2",
+  "files": [
+    "include/lzo/lzo1.h",
+    "include/lzo/lzo1a.h",
+    "include/lzo/lzo1b.h",
+    "include/lzo/lzo1c.h",
+    "include/lzo/lzo1f.h",
+    "include/lzo/lzo1x.h",
+    "include/lzo/lzo1y.h",
+    "include/lzo/lzo1z.h",
+    "include/lzo/lzo2a.h",
+    "include/lzo/lzo_asm.h",
+    "include/lzo/lzoconf.h",
+    "include/lzo/lzodefs.h",
+    "include/lzo/lzoutil.h",
+    "lib/liblzo2.a",
+    "lib/liblzo2.so",
+    "lib/liblzo2.so.2",
+    "lib/liblzo2.so.2.0.0",
+    "lib/pkgconfig/lzo2.pc",
+    "libexec/lzo/examples/lzopack",
+    "libexec/lzo/examples/lzotest",
+    "libexec/lzo/examples/simple",
+    "libexec/lzo/examples/testmini",
+    "share/doc/lzo/AUTHORS",
+    "share/doc/lzo/COPYING",
+    "share/doc/lzo/LZO.FAQ",
+    "share/doc/lzo/LZO.TXT",
+    "share/doc/lzo/LZOAPI.TXT",
+    "share/doc/lzo/NEWS",
+    "share/doc/lzo/THANKS"
+  ],
+  "fn": "lzo-2.10-h7b6447c_2.conda",
+  "license": "GPL v2+",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/lzo-2.10-h7b6447c_2",
+    "type": 1
+  },
+  "md5": "65722a7644f424de73fea6e87edd7653",
+  "name": "lzo",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/lzo-2.10-h7b6447c_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/pkgconfig/lzo2.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "1e26097934e2a2e0193fd4b5ce0a6af5c7615d520630fc284d768b588ec1f81a",
+        "sha256_in_prefix": "afe92ebc24df1be944eab8054d84362338a65e280e090c547aa2e5ce2d2e4836",
+        "size_in_bytes": 616
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::lzo==2.10=h7b6447c_2[md5=65722a7644f424de73fea6e87edd7653]",
+  "sha256": "99dc28dd81f7d94a363a242e56fb9ebdaf350ca6445a8f1b31dfe78be474a5df",
+  "size": 188158,
+  "subdir": "linux-64",
+  "timestamp": 1587075113000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/lzo-2.10-h7b6447c_2.conda",
+  "version": "2.10"
+}

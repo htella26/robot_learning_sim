@@ -1,0 +1,82 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "conda >=4.6,!=23.10.0,!=23.11.0",
+    "conda-content-trust",
+    "packaging",
+    "python >=3.8"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/conda-token-0.5.0-pyhd3eb1b0_0",
+  "files": [
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/LICENSE",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/METADATA",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/RECORD",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/WHEEL",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/conda_token-0.5.0+1.g2209e04.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/conda_token/__init__.py",
+    "lib/python3.12/site-packages/conda_token/__main__.py",
+    "lib/python3.12/site-packages/conda_token/_version.py",
+    "lib/python3.12/site-packages/conda_token/cli.py",
+    "lib/python3.12/site-packages/conda_token/repo_config.py",
+    "lib/python3.12/site-packages/conda_token/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/conda_token/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/conda_token/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/conda_token/__pycache__/cli.cpython-312.pyc",
+    "lib/python3.12/site-packages/conda_token/__pycache__/repo_config.cpython-312.pyc",
+    "bin/conda-token"
+  ],
+  "fn": "conda-token-0.5.0-pyhd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/conda-token-0.5.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "862db92647734f12a24ba9f30f99dc91",
+  "name": "conda-token",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/conda-token-0.5.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/conda_token/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/conda_token/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/conda_token/__pycache__/_version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/conda_token/__pycache__/cli.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/conda_token/__pycache__/repo_config.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/conda-token",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::conda-token==0.5.0=pyhd3eb1b0_0[md5=862db92647734f12a24ba9f30f99dc91]",
+  "sha256": "77378fa3855a91ba58071c8c61a966cd86a590b321bfd9f8241edef4f97be92f",
+  "size": 10870,
+  "subdir": "noarch",
+  "timestamp": 1718995783000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/conda-token-0.5.0-pyhd3eb1b0_0.conda",
+  "version": "0.5.0"
+}

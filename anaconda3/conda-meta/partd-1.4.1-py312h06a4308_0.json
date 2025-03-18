@@ -1,0 +1,73 @@
+{
+  "build": "py312h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "pandas >=0.19.0",
+    "numpy >=1.9.0"
+  ],
+  "depends": [
+    "locket",
+    "python >=3.12,<3.13.0a0",
+    "toolz"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/partd-1.4.1-py312h06a4308_0",
+  "files": [
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/LICENSE.txt",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/partd-1.4.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/partd/__init__.py",
+    "lib/python3.12/site-packages/partd/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/_version.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/buffer.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/compressed.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/core.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/dict.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/encode.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/file.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/numpy.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/pandas.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/pickle.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/python.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/__pycache__/zmq.cpython-312.pyc",
+    "lib/python3.12/site-packages/partd/_version.py",
+    "lib/python3.12/site-packages/partd/buffer.py",
+    "lib/python3.12/site-packages/partd/compressed.py",
+    "lib/python3.12/site-packages/partd/core.py",
+    "lib/python3.12/site-packages/partd/dict.py",
+    "lib/python3.12/site-packages/partd/encode.py",
+    "lib/python3.12/site-packages/partd/file.py",
+    "lib/python3.12/site-packages/partd/numpy.py",
+    "lib/python3.12/site-packages/partd/pandas.py",
+    "lib/python3.12/site-packages/partd/pickle.py",
+    "lib/python3.12/site-packages/partd/python.py",
+    "lib/python3.12/site-packages/partd/utils.py",
+    "lib/python3.12/site-packages/partd/zmq.py"
+  ],
+  "fn": "partd-1.4.1-py312h06a4308_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/partd-1.4.1-py312h06a4308_0",
+    "type": 1
+  },
+  "md5": "35ea3b7ff96731a7a98f9711111cc58f",
+  "name": "partd",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/partd-1.4.1-py312h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::partd==1.4.1=py312h06a4308_0[md5=35ea3b7ff96731a7a98f9711111cc58f]",
+  "sha256": "89aff49a0471c5244cf617f810508dc1f7e285efa8ac948ba9a3fac91ee7069c",
+  "size": 46922,
+  "subdir": "linux-64",
+  "timestamp": 1698863313000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/partd-1.4.1-py312h06a4308_0.conda",
+  "version": "1.4.1"
+}

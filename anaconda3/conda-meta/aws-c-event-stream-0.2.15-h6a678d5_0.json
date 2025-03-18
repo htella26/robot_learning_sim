@@ -1,0 +1,57 @@
+{
+  "build": "h6a678d5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "aws-checksums >=0.1.13,<0.1.14.0a0",
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-event-stream-0.2.15-h6a678d5_0",
+  "files": [
+    "include/aws/event-stream/event_stream.h",
+    "include/aws/event-stream/event_stream_channel_handler.h",
+    "include/aws/event-stream/event_stream_exports.h",
+    "include/aws/event-stream/event_stream_rpc.h",
+    "include/aws/event-stream/event_stream_rpc_client.h",
+    "include/aws/event-stream/event_stream_rpc_server.h",
+    "lib/aws-c-event-stream/cmake/aws-c-event-stream-config.cmake",
+    "lib/aws-c-event-stream/cmake/shared/aws-c-event-stream-targets-release.cmake",
+    "lib/aws-c-event-stream/cmake/shared/aws-c-event-stream-targets.cmake",
+    "lib/libaws-c-event-stream.so",
+    "lib/libaws-c-event-stream.so.1.0.0"
+  ],
+  "fn": "aws-c-event-stream-0.2.15-h6a678d5_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-event-stream-0.2.15-h6a678d5_0",
+    "type": 1
+  },
+  "md5": "8caf0b9770f50dec5cf68ad4abb1e6b9",
+  "name": "aws-c-event-stream",
+  "package_tarball_full_path": "/home/hambal/robot-learning-practice/anaconda3/pkgs/aws-c-event-stream-0.2.15-h6a678d5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libaws-c-event-stream.so.1.0.0",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/aws-c-event-stream_1706697226112/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "5af8acd3f26a489ca0a463b8becd9e21e6016d033c0c6e23e4ce5790c47dde1b",
+        "sha256_in_prefix": "e98528f0b4fef5b8225dd3936d04e60f3c902b658de331cfd6c576497bfa4c39",
+        "size_in_bytes": 110008
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/linux-64::aws-c-event-stream==0.2.15=h6a678d5_0[md5=8caf0b9770f50dec5cf68ad4abb1e6b9]",
+  "sha256": "665e2e22fb943c4ff969d868578c5875938b0e3d493d9f3550e45fe3f47cca8d",
+  "size": 50927,
+  "subdir": "linux-64",
+  "timestamp": 1706697274000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/aws-c-event-stream-0.2.15-h6a678d5_0.conda",
+  "version": "0.2.15"
+}
