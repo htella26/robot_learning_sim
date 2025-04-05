@@ -1,2 +1,0 @@
-#!/bin/sh
-exec /home/hambal/robot-learning-practice/anaconda3/bin/python -m PyQt5.pylupdate_main ${1+"$@"}
