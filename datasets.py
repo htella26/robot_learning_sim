@@ -2,23 +2,23 @@ import os
 import json
 import h5py
 import numpy as np
-import robomimic
-import robomimic.utils.file_utils as FileUtils
-from robomimic import DATASET_REGISTRY
-import robomimic.utils.env_utils as EnvUtils
-import robomimic.utils.obs_utils as ObsUtils
+#import robomimic
+import robomimic.robomimic.utils.file_utils as FileUtils
+from robomimic.robomimic import DATASET_REGISTRY
+import robomimic.robomimic.utils.env_utils as EnvUtils
+import robomimic.robomimic.utils.obs_utils as ObsUtils
 import imageio
-
+ 
 # Set download folder to project directory
-DOWNLOAD_FOLDER = "/home/hambal/robot-learning-practice/videos"
+DOWNLOAD_FOLDER = "videos"
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
 
 # Download dataset
-task, dataset_type, hdf5_type = "lift", "ph", "low_dim"
-FileUtils.download_url(
-    url=DATASET_REGISTRY[task][dataset_type][hdf5_type]["url"],
-    download_dir=DOWNLOAD_FOLDER,
-)
+#task, dataset_type, hdf5_type = "lift", "ph", "low_dim"
+#FileUtils.download_url(
+#   url=DATASET_REGISTRY[task][dataset_type][hdf5_type]["url"],
+#    download_dir=DOWNLOAD_FOLDER,
+#)
 
 dataset_path = os.path.join(DOWNLOAD_FOLDER, "low_dim_v141.hdf5")
 assert os.path.exists(dataset_path), "Dataset download failed!"
